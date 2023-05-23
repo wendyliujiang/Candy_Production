@@ -1,7 +1,7 @@
 
 library(forecast)
 library(zoo)
-setwd("C:\\Wendy L\\CSU\\Spring 2023\\BAN 673 Time Series");
+
  
 #Reading file and creating data frame
 candy_df <- read.csv("candy_production.csv");
